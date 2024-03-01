@@ -1,10 +1,13 @@
-# ¡Hola! 👋
+# ¡Hola! Soy Victor Sanchez
 
-<p align="center">
-  <img src="https://github.com/Savio-do/Savio-do/assets/111143728/8f5a4523-43af-4386-958a-ec5005b64271" width="200" height="200">
-</p>
 
-Soy Victor Sanchez, un estudiante de Ingeniería Mecatrónica y apasionado por la tecnología. Actualmente, trabajo en metrología y he estado inmerso en este campo durante un tiempo. Disfruto explorando y aprendiendo sobre todas las facetas de la tecnología, desde el desarrollo backend hasta el frontend.
+
+---
+
+|                      |                                                  |
+|----------------------|--------------------------------------------------|
+| Soy estudiante de Ingeniería Mecatrónica y apasionado por la tecnología. Actualmente, trabajo en metrología y he estado inmerso en este campo durante un tiempo. Disfruto explorando y aprendiendo sobre todas las facetas de la tecnología, desde el desarrollo backend hasta el frontend. | ![Imagen](https://github.com/Savio-do/Savio-do/assets/111143728/8f5a4523-43af-4386-958a-ec5005b64271) |
+
 
 ## Acerca de mí
 
