@@ -25,7 +25,4 @@ Me encanta involucrarme en proyectos que desafíen mis habilidades y me permitan
 Si quieres saber más sobre mí o tienes alguna pregunta, ¡no dudes en contactarme!
 
 
-
-- [Correo electrónico](victora.sanchezc@ecci.edu.co)
-
 ¡Gracias por visitar mi perfil! 😊
